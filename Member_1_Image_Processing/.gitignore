@@ -1,0 +1,13 @@
+# Ignore Visual Studio junk
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+
+# Ignore Dummy Images
+dummy_sh_wfs_data/
+*.bmp
